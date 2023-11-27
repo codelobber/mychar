@@ -1,2 +1,2 @@
 # mychar
-web(https://codelobber.github.io/mychar/web/)
+[web](https://codelobber.github.io/mychar/web/)
